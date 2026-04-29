@@ -1,13 +1,15 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║              DENUWAN UMAYANGA — GITHUB PROFILE README        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <!-- ░░░ HEADER WAVE BANNER ░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:2e1065,75:6d28d9,100:9333ea&height=220&section=header&text=Denuwan%20Umayanga&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20AI%20Integrations&descAlignY=62&descSize=17&animation=fadeIn"/>
+
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=🚀+Building+Modern+Web+Applications;🎨+Crafting+Beautiful+UI%2FUX+Experiences;🤖+Integrating+AI+into+Everything;⚡+Full+Stack+Engineer+%7C+React+%2B+Node.js;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=🚀+Building+Modern+Web+Applications;🎨+Crafting+Beautiful+UI%2FUX+Experiences;🤖+Integrating+AI+into+Everything;⚡+Full+Stack+Engineer+%7C+React+%2B+Node.js;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
+
 <!-- ░░░ SOCIAL / STATUS BADGES ░░░ -->
 <p align="center">
   <a href="https://github.com/denuwan-umayanga">
@@ -16,11 +18,15 @@
   <img src="https://komarev.com/ghpvc/?username=denuwan-umayanga&style=for-the-badge&color=6d28d9&labelColor=0d0117&label=PROFILE+VIEWS"/>&nbsp;
   <img src="https://img.shields.io/badge/STATUS-Open%20To%20Work-9333ea?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0117"/>
 </p>
+
 <br/>
 
-<!-- ░░░ ABOUT ME ░░░ -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>  About Me
-typescriptconst denuwan: Developer = {
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+
+```typescript
+const denuwan: Developer = {
   name:        "Denuwan Umayanga",
   username:    "denuwan-umayanga",
   role:        "Full Stack Developer",
@@ -35,64 +41,91 @@ typescriptconst denuwan: Developer = {
   currentlyBuilding: "AI-powered full stack web experiences 🤖✨",
   funFact:     "I ship at midnight and debug with coffee ☕🌙",
 };
+```
+
 <br/>
 
-<!-- ░░░ TECH STACK ░░░ -->
-🛠️ Tech Arsenal
-🎨 Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-⚙️ Backend
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🗄️ Database & Cloud
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🤖 AI & ML
-Show Image
-Show Image
-Show Image
-Show Image
+---
+
+## 🛠️ Tech Arsenal
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f172a?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-0f172a?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/GraphQL-0f172a?style=for-the-badge&logo=graphql&logoColor=E10098)
+
+**🗄️ Database & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+**🤖 AI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
 <br/>
 
-<!-- ░░░ GITHUB STATS ░░░ -->
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=denuwan-umayanga&show_icons=true&count_private=true&theme=transparent&bg_color=0d0117&title_color=a855f7&text_color=e2e8f0&icon_color=7c3aed&border_color=3b0764&border_radius=12" />
+
 <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=denuwan-umayanga&background=0d0117&ring=9333ea&fire=7c3aed&currStreakLabel=e2e8f0&sideNums=e2e8f0&currStreakNum=a855f7&dates=a855f7&sideLabels=c4b5fd&border=3b0764&border_radius=12" />
+
 </div>
+
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denuwan-umayanga&layout=compact&count_private=true&theme=transparent&bg_color=0d0117&title_color=a855f7&text_color=e2e8f0&border_color=3b0764&border_radius=12&langs_count=8&hide=css,html" />
 </div>
+
 <br/>
 
-<!-- ░░░ TROPHIES ░░░ -->
-🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=denuwan-umayanga&theme=darkhub&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
+
 <br/>
 
-<!-- ░░░ ACTIVITY GRAPH ░░░ -->
-📈 Contribution Graph
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=denuwan-umayanga&bg_color=0d0117&color=a855f7&line=7c3aed&point=c4b5fd&area=true&area_color=2e1065&hide_border=false&border_color=3b0764&radius=12&custom_title=Denuwan's%20Contribution%20Graph" />
 </div>
+
 <br/>
 
-<!-- ░░░ SNAKE ANIMATION ░░░ -->
-🐍 Watch My Contributions Get Eaten
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denuwan-umayanga/denuwan-umayanga/output/github-contribution-grid-snake-dark.svg"/>
@@ -100,10 +133,13 @@ Show Image
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denuwan-umayanga/denuwan-umayanga/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
+
 <br/>
 
-<!-- ░░░ CURRENT FOCUS / WHAT I'M UP TO ░░░ -->
-🌙 What I'm Up To
+---
+
+## 🌙 What I'm Up To
+
 <table align="center">
   <tr>
     <td>🔭&nbsp;<b>Building</b></td>
@@ -126,10 +162,13 @@ Show Image
     <td>I treat every UI as a piece of art 🎨</td>
   </tr>
 </table>
+
 <br/>
 
-<!-- ░░░ CONNECT ░░░ -->
-🌐 Let's Connect & Collaborate
+---
+
+## 🌐 Let's Connect & Collaborate
+
 <p align="center">
   <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0117"/>
@@ -147,11 +186,14 @@ Show Image
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0d0117"/>
   </a>
 </p>
+
 <br/>
-<!-- ░░░ QUOTE ░░░ -->
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry%20written%20for%20machines%20to%20execute%20and%20humans%20to%20admire.&author=Denuwan%20Umayanga" />
 </div>
+
 <br/>
+
 <!-- ░░░ FOOTER WAVE ░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,40:6d28d9,75:2e1065,100:050510&height=130&section=footer"/>
