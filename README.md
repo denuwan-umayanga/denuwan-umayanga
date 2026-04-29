@@ -33,13 +33,12 @@ const denuwan: Developer = {
   focus:       ["Web Apps", "UI/UX Design", "AI Integration"],
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend:   ["Node.js", "Python", "Express", "FastAPI"],
-    database:  ["PostgreSQL", "MongoDB", "Redis"],
-    ai:        ["OpenAI API", "LangChain", "Hugging Face"],
-    devops:    ["Docker", "GitHub Actions", "Vercel", "AWS"],
+    backend:   ["Node.js", "Python", "Express"],
+    database:  ["PostgreSQL", "MongoDB", "SQL"],
+    ai:        ["OpenAI API"],
+    devops:    ["AWS"],
   },
-  currentlyBuilding: "AI-powered full stack web experiences 🤖✨",
-  funFact:     "I ship at midnight and debug with coffee ☕🌙",
+  funFact:     "I ship at midnight and debug with coffee 🌙",
 };
 ```
 
@@ -47,9 +46,9 @@ const denuwan: Developer = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💜 Tech Arsenal
 
-**🎨 Frontend**
+**💜 Frontend**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
@@ -61,13 +60,13 @@ const denuwan: Developer = {
   <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,mysql&theme=dark" />
 </p>
 
-**🗄️ Database & Cloud**
+**💜 Database & Cloud**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws&theme=dark" />
 </p>
 
-**🤖 AI & ML**
+**💜 AI & ML**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
@@ -77,7 +76,7 @@ const denuwan: Developer = {
 
 ---
 
-## 📊 GitHub Stats
+## 💜 GitHub Stats
 
 <div align="center">
 
@@ -95,7 +94,7 @@ const denuwan: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 💜 GitHub Trophies
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=denuwan-umayanga&theme=darkhub&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
@@ -105,7 +104,7 @@ const denuwan: Developer = {
 
 ---
 
-## 📈 Contribution Graph
+## 💜 Contribution Graph
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=denuwan-umayanga&bg_color=0d0117&color=a855f7&line=7c3aed&point=c4b5fd&area=true&area_color=2e1065&hide_border=false&border_color=3b0764&radius=12&custom_title=Denuwan's%20Contribution%20Graph" />
@@ -115,7 +114,7 @@ const denuwan: Developer = {
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 💜 Watch My Contributions Get Eaten
 
 <div align="center">
   <picture>
@@ -129,7 +128,7 @@ const denuwan: Developer = {
 
 ---
 
-## 🌙 What I'm Up To
+## 💜 What I'm Up To
 
 <table align="center">
   <tr>
@@ -158,7 +157,7 @@ const denuwan: Developer = {
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+## 🌐 Let's Connect & Collaborate 💜
 
 <p align="center">
   <a href="mailto:your@email.com">
