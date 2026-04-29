@@ -7,7 +7,7 @@
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=🚀+Building+Modern+Web+Applications;🎨+Crafting+Beautiful+UI%2FUX+Experiences;🤖+Integrating+AI+into+Everything;⚡+Full+Stack+Engineer+%7C+React+%2B+Node.js;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=+Building+Modern+Web+Applications;+Crafting+Beautiful+UI%2FUX+Experiences;+Integrating+AI+into+Everything;⚡+Full+Stack+Engineer+%7C+React+%2B+Node.js;+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <!-- ░░░ SOCIAL / STATUS BADGES ░░░ -->
@@ -23,7 +23,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVmODN1NjE1NDd3cTg4d2R3YXMweDNxaWlsOW4yc2N1cmdqdzkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CWWvMWC6o3dWYYGkZi/giphy.gif" width="28"/> &nbsp;About Me
 
 ```typescript
 const denuwan: Developer = {
