@@ -7,7 +7,7 @@
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Crafting+Beautiful+UI%2FUX+Experiences;Integrating+AI+into+Everything;Full+Stack+Engineer+%7C+React+%2B+Node.js;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=🚀+Building+Modern+Web+Applications;🎨+Crafting+Beautiful+UI%2FUX+Experiences;🤖+Integrating+AI+into+Everything;⚡+Full+Stack+Engineer+%7C+React+%2B+Node.js;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <!-- ░░░ SOCIAL / STATUS BADGES ░░░ -->
@@ -51,36 +51,27 @@ const denuwan: Developer = {
 
 **🎨 Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f172a?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-0f172a?style=for-the-badge&logo=threedotjs&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
+</p>
 
 **⚙️ Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688)
-![GraphQL](https://img.shields.io/badge/GraphQL-0f172a?style=for-the-badge&logo=graphql&logoColor=E10098)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,mysql&theme=dark" />
+</p>
 
 **🗄️ Database & Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Supabase](https://img.shields.io/badge/Supabase-0f172a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws&theme=dark" />
+</p>
 
 **🤖 AI & ML**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0f172a?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0f172a?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
+</p>
 
 <br/>
 
