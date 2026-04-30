@@ -15,8 +15,7 @@
   <a href="https://github.com/denuwan-umayanga">
     <img src="https://img.shields.io/github/followers/denuwan-umayanga?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6d28d9&labelColor=0d0117"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=denuwan-umayanga&style=for-the-badge&color=6d28d9&labelColor=0d0117&label=PROFILE+VIEWS"/>&nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20To%20Work-9333ea?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0117"/>
+  <img src="https://komarev.com/ghpvc/?username=denuwan-umayanga&style=for-the-badge&color=6d28d9&labelColor=0d0117&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
