@@ -7,7 +7,7 @@
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=+Building+Modern+Web+Applications;+Crafting+Beautiful+UI%2FUX+Experiences;+Integrating+AI+into+Everything;⚡+Full+Stack+Engineer+%7C+React+%2B+Node.js;+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Crafting+Beautiful+UI%2FUX+Experiences;Integrating+AI+into+Everything;Full+Stack+Engineer+%7C+React+%2B+Node.js;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <!-- ░░░ SOCIAL / STATUS BADGES ░░░ -->
