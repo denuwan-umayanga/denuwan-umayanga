@@ -7,7 +7,7 @@
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Crafting+Beautiful+UI%2FUX+Experiences;Integrating+AI+into+Everything;Full+Stack+Engineer+%7C+React+%2B+Node.js;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=+Building+Modern+Web+Applications;+Crafting+Beautiful+UI%2FUX+Experiences;+Integrating+AI+into+Everything;⚡+Full+Stack+Engineer+%7C+React+%2B+Node.js;+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <!-- ░░░ SOCIAL / STATUS BADGES ░░░ -->
@@ -16,13 +16,14 @@
     <img src="https://img.shields.io/github/followers/denuwan-umayanga?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6d28d9&labelColor=0d0117"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=denuwan-umayanga&style=for-the-badge&color=6d28d9&labelColor=0d0117&label=PROFILE+VIEWS"/>&nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20To%20Work-9333ea?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0117"/>
 </p>
 
 <br/>
 
 ---
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVmODN1NjE1NDd3cTg4d2R3YXMweDNxaWlsOW4yc2N1cmdqdzkwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CWWvMWC6o3dWYYGkZi/giphy.gif" width="28"/> &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
 ```typescript
 const denuwan: Developer = {
@@ -32,12 +33,13 @@ const denuwan: Developer = {
   focus:       ["Web Apps", "UI/UX Design", "AI Integration"],
   stack: {
     frontend:  ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend:   ["Node.js", "Python", "Express"],
-    database:  ["PostgreSQL", "MongoDB", "SQL"],
-    ai:        ["OpenAI API"],
-    devops:    ["AWS"],
+    backend:   ["Node.js", "Python", "Express", "FastAPI"],
+    database:  ["PostgreSQL", "MongoDB", "Redis"],
+    ai:        ["OpenAI API", "LangChain", "Hugging Face"],
+    devops:    ["Docker", "GitHub Actions", "Vercel", "AWS"],
   },
-  funFact:     "I ship at midnight and debug with coffee 🌙",
+  currentlyBuilding: "AI-powered full stack web experiences 🤖✨",
+  funFact:     "I ship at midnight and debug with coffee ☕🌙",
 };
 ```
 
@@ -45,9 +47,9 @@ const denuwan: Developer = {
 
 ---
 
-## 💜 Tech Arsenal
+## 🛠️ Tech Arsenal
 
-**💜 Frontend**
+**🎨 Frontend**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
@@ -59,13 +61,13 @@ const denuwan: Developer = {
   <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,mysql&theme=dark" />
 </p>
 
-**💜 Database & Cloud**
+**🗄️ Database & Cloud**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws&theme=dark" />
 </p>
 
-**💜 AI & ML**
+**🤖 AI & ML**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
@@ -75,7 +77,7 @@ const denuwan: Developer = {
 
 ---
 
-## 💜 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -93,7 +95,7 @@ const denuwan: Developer = {
 
 ---
 
-## 💜 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=denuwan-umayanga&theme=darkhub&no-frame=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
@@ -103,7 +105,7 @@ const denuwan: Developer = {
 
 ---
 
-## 💜 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=denuwan-umayanga&bg_color=0d0117&color=a855f7&line=7c3aed&point=c4b5fd&area=true&area_color=2e1065&hide_border=false&border_color=3b0764&radius=12&custom_title=Denuwan's%20Contribution%20Graph" />
@@ -113,21 +115,17 @@ const denuwan: Developer = {
 
 ---
 
-## 💜 Watch My Contributions Get Eaten
+## 🏄 Riding the Commit Wave
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denuwan-umayanga/denuwan-umayanga/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denuwan-umayanga/denuwan-umayanga/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/denuwan-umayanga/denuwan-umayanga/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/denuwan-umayanga/denuwan-umayanga/main/wave.svg" alt="Surfing wave animation" width="100%"/>
 </div>
 
 <br/>
 
 ---
 
-## 💜 What I'm Up To
+## 🌙 What I'm Up To
 
 <table align="center">
   <tr>
@@ -156,7 +154,7 @@ const denuwan: Developer = {
 
 ---
 
-## 🌐 Let's Connect & Collaborate 💜
+## 🌐 Let's Connect & Collaborate
 
 <p align="center">
   <a href="mailto:your@email.com">
