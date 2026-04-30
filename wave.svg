@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+<title>Riding the commit wave - denuwan-umayanga</title>
+<defs>
+  <clipPath id="oc">
+    <rect width="900" height="200"/>
+  </clipPath>
+</defs>
+<style>
+@keyframes w1{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+@keyframes w2{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+@keyframes w3{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+@keyframes w4{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes twk{0%,100%{opacity:.12}50%{opacity:.9}}
+@keyframes spl{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-5px) scale(1.4)}}
+</style>
+
+<!-- Sky -->
+<rect width="900" height="200" fill="#050510"/>
+
+<!-- Stars -->
+<circle cx="55"  cy="17" r="1.5" fill="#c4b5fd" style="animation:twk 2.3s ease-in-out infinite"/>
+<circle cx="140" cy="34" r="1"   fill="#e2e8f0" style="animation:twk 3.1s ease-in-out infinite .7s"/>
+<circle cx="240" cy="12" r="1.5" fill="#a855f7" style="animation:twk 2.8s ease-in-out infinite 1.2s"/>
+<circle cx="360" cy="27" r="1"   fill="#c4b5fd" style="animation:twk 3.5s ease-in-out infinite .3s"/>
+<circle cx="480" cy="13" r="1.5" fill="#e2e8f0" style="animation:twk 2.1s ease-in-out infinite 1.5s"/>
+<circle cx="590" cy="37" r="1"   fill="#a855f7" style="animation:twk 4s ease-in-out infinite .8s"/>
+<circle cx="700" cy="21" r="1.5" fill="#c4b5fd" style="animation:twk 2.6s ease-in-out infinite .2s"/>
+<circle cx="790" cy="45" r="1"   fill="#e2e8f0" style="animation:twk 2.9s ease-in-out infinite 1.8s"/>
+<circle cx="860" cy="14" r="1.5" fill="#a855f7" style="animation:twk 3.7s ease-in-out infinite .5s"/>
+<circle cx="310" cy="47" r="1"   fill="#c4b5fd" style="animation:twk 3.2s ease-in-out infinite 1.1s"/>
+
+<!-- Crescent moon -->
+<circle cx="838" cy="37" r="15"  fill="#d4bbf5"/>
+<circle cx="847" cy="33" r="12"  fill="#050510"/>
+<circle cx="838" cy="37" r="20"  fill="none" stroke="#4c1d95" stroke-width="1.5" opacity="0.35"/>
+
+<!-- Ocean (clipped) -->
+<g clip-path="url(#oc)">
+
+  <!-- Wave 1: deepest -->
+  <g style="animation:w1 18s linear infinite">
+    <path d="M0,148 Q225,120 450,148 Q675,176 900,148 Q1125,120 1350,148 Q1575,176 1800,148 L1800,200 L0,200 Z" fill="#0d0220"/>
+  </g>
+
+  <!-- Wave 2 -->
+  <g style="animation:w2 12s linear infinite">
+    <path d="M0,153 Q225,128 450,153 Q675,178 900,153 Q1125,128 1350,153 Q1575,178 1800,153 L1800,200 L0,200 Z" fill="#1a0840"/>
+  </g>
+
+  <!-- Wave 3 with contribution dots -->
+  <g style="animation:w3 8s linear infinite">
+    <path d="M0,158 Q225,136 450,158 Q675,180 900,158 Q1125,136 1350,158 Q1575,180 1800,158 L1800,200 L0,200 Z" fill="#2e1065"/>
+    <circle cx="100"  cy="142" r="4"   fill="#9333ea" opacity="0.9"/>
+    <circle cx="225"  cy="132" r="5.5" fill="#a855f7" opacity="0.9"/>
+    <circle cx="350"  cy="142" r="3.5" fill="#7c3aed" opacity="0.85"/>
+    <circle cx="490"  cy="155" r="4"   fill="#c4b5fd" opacity="0.7"/>
+    <circle cx="675"  cy="173" r="3"   fill="#9333ea" opacity="0.6"/>
+    <circle cx="800"  cy="160" r="3.5" fill="#a855f7" opacity="0.75"/>
+    <circle cx="1000" cy="142" r="4"   fill="#9333ea" opacity="0.9"/>
+    <circle cx="1125" cy="132" r="5.5" fill="#a855f7" opacity="0.9"/>
+    <circle cx="1250" cy="142" r="3.5" fill="#7c3aed" opacity="0.85"/>
+    <circle cx="1390" cy="155" r="4"   fill="#c4b5fd" opacity="0.7"/>
+    <circle cx="1575" cy="173" r="3"   fill="#9333ea" opacity="0.6"/>
+    <circle cx="1700" cy="160" r="3.5" fill="#a855f7" opacity="0.75"/>
+  </g>
+
+  <!-- Wave 4: front, brightest -->
+  <g style="animation:w4 5s linear infinite">
+    <path d="M0,163 Q225,143 450,163 Q675,183 900,163 Q1125,143 1350,163 Q1575,183 1800,163 L1800,200 L0,200 Z" fill="#4c1d95"/>
+    <path d="M0,163 Q225,143 450,163 Q675,183 900,163 Q1125,143 1350,163 Q1575,183 1800,163" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.5"/>
+  </g>
+
+</g>
+
+<!-- Surfer -->
+<g transform="translate(190, 118)">
+  <g style="animation:bob 1.9s ease-in-out infinite">
+    <ellipse cx="33" cy="50" rx="34" ry="3"   fill="#1a0840" opacity="0.5"/>
+    <ellipse cx="33" cy="46" rx="36" ry="5.5" fill="#9333ea"/>
+    <ellipse cx="33" cy="46" rx="36" ry="5.5" fill="none" stroke="#c4b5fd" stroke-width="0.8" opacity="0.65"/>
+    <line x1="-2" y1="46" x2="68" y2="46" stroke="#c4b5fd" stroke-width="0.8" opacity="0.3"/>
+    <path d="M66,46 L72,57 L62,47 Z" fill="#7c3aed"/>
+    <line x1="28" y1="42" x2="21" y2="46" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="38" y1="42" x2="45" y2="46" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+    <rect x="29" y="26" width="8" height="16" rx="4" fill="#4c1d95"/>
+    <line x1="29" y1="32" x2="15" y2="23" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+    <line x1="37" y1="32" x2="51" y2="22" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="33" cy="22" r="6.5" fill="#fcd34d"/>
+    <path d="M27,17 Q33,13 41,16 L39.5,21 Q33,18 27,21 Z" fill="#92400e"/>
+    <rect x="27.5" y="20.5" width="4.5" height="2.5" rx="1.2" fill="#0d0117" opacity="0.9"/>
+    <rect x="33.5" y="20.5" width="4.5" height="2.5" rx="1.2" fill="#0d0117" opacity="0.9"/>
+    <line x1="32" y1="21.7" x2="33.5" y2="21.7" stroke="#0d0117" stroke-width="0.8"/>
+    <path d="M30,26 Q33,28.5 36,26" fill="none" stroke="#92400e" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+</g>
+
+<!-- Splash -->
+<circle cx="186" cy="163" r="2.5" fill="#c4b5fd" style="animation:spl 1.9s ease-in-out infinite"       opacity="0.7"/>
+<circle cx="179" cy="159" r="1.5" fill="#e2e8f0" style="animation:spl 1.9s ease-in-out infinite .35s"  opacity="0.5"/>
+<circle cx="173" cy="166" r="1.5" fill="#a855f7" style="animation:spl 1.9s ease-in-out infinite .7s"   opacity="0.65"/>
+<circle cx="166" cy="162" r="1"   fill="#c4b5fd" style="animation:spl 1.9s ease-in-out infinite 1s"    opacity="0.4"/>
+
+<!-- Label -->
+<text x="600" y="68" fill="#6d28d9" font-family="monospace" font-size="12" font-weight="bold" opacity="0.88">riding the commit wave</text>
+<text x="602" y="83" fill="#4c1d95" font-family="monospace" font-size="9.5"                  opacity="0.55">— denuwan-umayanga</text>
+
+</svg>
