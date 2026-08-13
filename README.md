@@ -3,11 +3,11 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░░ HEADER WAVE BANNER ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:2e1065,75:6d28d9,100:9333ea&height=220&section=header&text=Denuwan%20Umayanga&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20AI%20Integrations&descAlignY=62&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:2e1065,75:6d28d9,100:9333ea&height=220&section=header&text=Denuwan%20Umayanga&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Modern%20Web%20Development&descAlignY=62&descSize=17&animation=fadeIn"/>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Crafting+Beautiful+UI%2FUX+Experiences;Integrating+AI+into+Everything;Full+Stack+Engineer+%7C+React+%2B+Node.js;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Building+Scalable+Web+Applications;Full-Stack+Developer+%7C+React+%E2%80%A2+Node.js+%E2%80%A2+ASP.NET+Core;Applied+AI+%7C+RAG+%E2%80%A2+Computer+Vision+%E2%80%A2+TensorFlow;Clean+Architecture+%E2%80%A2+REST+APIs+%E2%80%A2+PostgreSQL;Turning+Ideas+Into+Production-Ready+Software" alt="Typing SVG" />
 </p>
 
 <!-- ░░░ STATUS BADGE ░░░ -->
@@ -20,12 +20,15 @@
 <!-- ░░░ ABOUT ME ░░░ -->
 ## 💜 About Me
 
-I'm a Computing undergraduate specializing in Information Technology at **SLIIT**, building full-stack web applications with a growing focus on integrating AI into practical, real-world tools. I care about clean architecture, thoughtful UI/UX, and following a proper SDLC — requirements → design → implementation — rather than jumping straight to code.
+I'm a **Full-Stack Developer** and **BSc (Hons) Information Technology** undergraduate at **SLIIT**, passionate about building scalable, production-ready web applications and intelligent software solutions.
 
-I currently have strong hands-on experience with **React, the MERN stack, PostgreSQL, Java, JavaScript, and TypeScript**, and I'm actively expanding into **.NET (ASP.NET Core)** and **AI/ML** — including Python, TensorFlow, and RAG-based systems.
+My primary expertise is in **React, Node.js, ASP.NET Core, PostgreSQL and TypeScript**, with hands-on experience developing end-to-end applications, RESTful APIs and modern database-driven systems.
 
-- 🎓 Specializing in Information Technology at SLIIT
+Alongside full-stack development, I'm expanding into **Applied AI**, working with **Retrieval-Augmented Generation (RAG), Computer Vision and Explainable AI** to build practical, real-world software solutions.
+
+- 🎓 BSc (Hons) Information Technology — SLIIT
 - 📍 Based in Sri Lanka
+- 🌐 Portfolio: **https://denuwanumayanga-dev.vercel.app**
 
 <br/>
 
@@ -75,22 +78,28 @@ I currently have strong hands-on experience with **React, the MERN stack, Postgr
 
 <br/>
 
-<!-- ░░░ GITHUB CONTRIBUTIONS ░░░ -->
-## 💜 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denuwan-umayanga&bg_color=0d0117&color=a855f7&line=6d28d9&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-<br/>
-
 <!-- ░░░ CONNECT ░░░ -->
 ## 💜 Connect
 
-**LinkedIn:** [linkedin.com/in/denuwan-umayanga](https://www.linkedin.com/in/denuwan-umayanga-3b3a61311/)
-**Email:** [denuwan555umayanga@gmail.com](mailto:denuwan555umayanga@gmail.com)
-**CV:** [View Resume](https://drive.google.com/file/d/1Z2_OFOiD9ElcovL0zAIX7iXjqEt4Ulzp/view?usp=sharing)
-**Portfolio:** [denuwanumayanga-dev.vercel.app](https://denuwanumayanga-dev.vercel.app/)
+<p align="center">
+
+<a href="https://denuwanumayanga-dev.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-6D28D9?style=for-the-badge"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1Z2_OFOiD9ElcovL0zAIX7iXjqEt4Ulzp/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-4F46E5?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/denuwan-umayanga-3b3a61311/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:denuwan555umayanga@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 <br/>
 
