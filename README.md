@@ -77,6 +77,26 @@ Alongside full-stack development, I'm expanding into **Applied AI**, working wit
 </p>
 
 <br/>
+<!-- ░░░ CURRENTLY LEARNING ░░░ -->
+## 💜 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS%20Cloud-Learning-0d0117?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/Docker-Learning-0d0117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-0d0117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+
+<img src="https://img.shields.io/badge/Advanced%20AI-Continuous%20Learning-0d0117?style=for-the-badge&logo=openai&logoColor=A855F7"/>
+
+</p>
+
+<p align="center">
+Building expertise in cloud-native development, containerization, deployment pipelines and advanced AI engineering through continuous learning and hands-on projects.
+</p>
+
+<br/>
 
 <!-- ░░░ CONNECT ░░░ -->
 ## 💜 Connect
