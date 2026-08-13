@@ -89,7 +89,7 @@ I currently have strong hands-on experience with **React, the MERN stack, Postgr
 
 **LinkedIn:** [linkedin.com/in/denuwan-umayanga](https://www.linkedin.com/in/denuwan-umayanga-3b3a61311/)
 **Email:** [denuwan555umayanga@gmail.com](mailto:denuwan555umayanga@gmail.com)
-**CV:** [Download Resume](https://drive.google.com/uc?export=download&id=1Z2_OFOiD9ElcovL0zAIX7iXjqEt4Ulzp)
+**CV:** [View Resume](https://drive.google.com/file/d/1Z2_OFOiD9ElcovL0zAIX7iXjqEt4Ulzp/view?usp=sharing)
 **Portfolio:** [denuwanumayanga-dev.vercel.app](https://denuwanumayanga-dev.vercel.app/)
 
 <br/>
