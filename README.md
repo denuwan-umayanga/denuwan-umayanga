@@ -107,7 +107,7 @@ Building expertise in cloud-native development, containerization, deployment pip
   <img src="https://img.shields.io/badge/🌐%20Portfolio-6D28D9?style=for-the-badge"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1Z2_OFOiD9ElcovL0zAIX7iXjqEt4Ulzp/view?usp=sharing" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Resume-4F46E5?style=for-the-badge"/>
 </a>
 
